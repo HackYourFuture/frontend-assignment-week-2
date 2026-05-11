@@ -1,17 +1,9 @@
-# [Track] week X assignment
-HackYourFuture <Track> week X assignment
-The Week X assignment for the HackYourFuture <TRACK> can be found at the following link: [TODO: Assignment url in the learning platform]
+# Frontend week 2 assignment
+Full instructions for the assignment can be found in the learning platform: 
+https://hub.hackyourfuture.nl/frontend-week-2-assignment
 
 
 ## Implementation Instructions
 
-Provide clear instructions on how trainees should implement the tasks.
-
 ### Task 1
-Instructions for Task 1
-
-### Task 2
-Instructions for Task 2
-
-...
-
+Implement your website inside the `task-1` folder.
